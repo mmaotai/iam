@@ -149,7 +149,7 @@ require (
 	moul.io/http2curl v1.0.0 // indirect
 )
 
-replace (
-	github.com/marmotedu/api => /home/colin/workspace/golang/src/github.com/marmotedu/api
-	github.com/marmotedu/component-base => /home/colin/workspace/golang/src/github.com/marmotedu/component-base
-)
+//replace (
+//	github.com/marmotedu/api => /home/colin/workspace/golang/src/github.com/marmotedu/api
+//	github.com/marmotedu/component-base => /home/colin/workspace/golang/src/github.com/marmotedu/component-base
+//)
